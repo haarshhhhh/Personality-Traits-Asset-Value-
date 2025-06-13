@@ -17,7 +17,7 @@ The top GBP holder has £542.86 in assets and exhibits a moderate risk tolerance
 - `assets.csv` – Raw asset data
 - `personality.csv` – Raw personality data
 - `eda_analysis_script.py` – Full Python analysis
-- `EDA_Insights_Report.docx` – Written summary
+- `EDA_Summary_Report.docx` – Written summary
 
 
 ---

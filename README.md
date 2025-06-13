@@ -63,4 +63,4 @@ The top GBP holder has £542.86 in assets and exhibits a moderate risk tolerance
 2. Install dependencies:
    ```bash
    pip install pandas seaborn matplotlib python-docx
-
+I am deeply interested in this role as it aligns perfectly with my background in financial economics and hands-on experience in behavioural data analysis. I’ve worked on projects involving personality traits, digital finance, and interactive dashboards, which makes this opportunity an ideal fit. The chance to apply behavioural science to real-world financial decisions excites me. I’m eager to contribute meaningfully while gaining deeper insights into behavioural engagement tools.

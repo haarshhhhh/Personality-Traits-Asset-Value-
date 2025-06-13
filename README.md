@@ -7,7 +7,7 @@ This project analyzes how individual personality traits relate to asset holdings
 
 ## 🧠 Key Insight
 
-**Highest asset value (in GBP) individual risk tolerance: 0.56**  
+**Highest asset value (in GBP) individual risk tolerance: 0.555**  
 The top GBP holder has £542.86 in assets and exhibits a moderate risk tolerance.
 
 ---
